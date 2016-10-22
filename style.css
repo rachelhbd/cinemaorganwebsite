@@ -1,33 +1,33 @@
 /* Fonts and Colours */
 body{
-  background: #7A7D7D;
-  color: rgb(40,40,40);
-  font-size: 13px;
+  background: #252627;
+  color: white;
+  font-size: 15px;
   font-family: 'Open Sans', sans-serif;
-
+     text-align: center;
+    font-weight: lighter;
+    display: inline;
 }
 
 h1 {
   font-family: 'Cormorant Garamond', serif;
   color:  white;
   font-size: 65px;
-  opacity: 0.95;
 }
 
 h2 {
-    font-size: 15px;
+    font-size: 20px;
+     font-family: 'Open Sans', sans-serif;
     font-weight: bolder;
+    text-shadow: 0.2px 0.2px 8px  rgb(80, 80, 80);
+    display: inline;
+    opacity: 0.9;
 }
 
-p {
-    font-weight: lighter;
- 
+.highlighted {
+    background-color: rgba(0,0,0,.8);
 }
 
-a {
-  color: #2E4057;
-
-}
 a:hover {
     text-decoration: none;
     font-weight: bolder;
@@ -39,7 +39,9 @@ a:hover {
     background-size: cover;
     padding-top: 150px;
     padding-bottom: 150px;
-    background-image:  url("waiting-to-sing-blue.jpg");
+    padding-left: 100px;
+    padding-right: 100px;
+    background-image:  url("waiting-to-sing-dark.jpg");
     text-align: center;
     color: white;
     text-shadow: 0.2px 0.2px 8px  rgb(80, 80, 80);
@@ -48,9 +50,8 @@ a:hover {
 
 #banner p  {
     font-size: 20px;
-    font-family: 'Lato', sans-serif;
-    font-weight: bolder;
-    opacity: 0.8
+    font-family: 'Open Sans', sans-serif;
+    opacity: 0.9;
 }
 
 #signup {
@@ -59,14 +60,18 @@ a:hover {
     padding: 30px;
     padding-top: 30px;
     padding-bottom: 40px;
-    font-size: 18px;
-    font-family: 'Lato', sans-serif;
-    font-weight: bolder;
-    color: white;
-    text-shadow: 0.2px 0.2px 8px  rgb(80, 80, 80);
-    
+   
+    font-family: 'Open sans', sans-serif;
+
 }
 
+.middle {
+    background-size: cover;
+    background-image:  url("m_e_r_cinemaorgan.jpg");
+    padding: 150px;
+
+}
+    
 .container {
     position:relative;
 	padding-bottom:56.25%;
@@ -97,5 +102,3 @@ a:hover {
 #footer a:hover {
     color: grey;   
 }
-
-
