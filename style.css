@@ -1,0 +1,107 @@
+/* Fonts and Colours */
+body{
+  background: rgb(70, 70, 70);
+  color: rgb(40,40,40);
+  font-size: 13px;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+h1 {
+  font-family: 'Cormorant Garamond', serif;
+  color:  white;
+  font-size: 65px;
+  opacity: 0.95;
+}
+
+h2 {
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+p {
+    font-weight: lighter;
+ 
+}
+
+a {
+  color: #2E4057;
+
+}
+a:hover {
+    text-decoration: none;
+    font-weight: bolder;
+    color: #3C3744
+}
+
+/* Custom design */
+#banner {
+    background-size: cover;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-image:  url("images/waiting-to-sing.jpg");
+    text-align: center;
+    color: white;
+    text-shadow: 0.2px 0.2px 8px  rgb(80, 80, 80);
+}
+    
+
+#banner p  {
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bolder;
+    opacity: 0.8
+}
+
+#signup {
+    background: rgb(70, 70, 70);
+    background-size: cover;
+    text-align: center;
+    padding: 30px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bolder;
+    color: white;
+    text-shadow: 0.2px 0.2px 8px  rgb(80, 80, 80);
+    
+}
+
+.card {
+    background-color: rgb(70, 70, 70);
+}
+
+.container {
+    position:relative;
+	padding-bottom:56.25%;
+	padding-top:30px;
+	height:0;
+	overflow:hidden;
+}
+
+.iframe {
+   position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}
+
+#footer {
+    background-color: rgb(70, 70, 70);
+    font-size: 15px;
+    padding: 20px;
+    text-align: center;
+}
+
+#footer a {
+    font-size: 25px;
+    color: white;
+}
+
+#footer a:hover {
+    color: grey;   
+}
+
+
