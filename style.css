@@ -1,6 +1,6 @@
 /* Fonts and Colours */
 body{
-  background: rgb(70, 70, 70);
+  background: #7A7D7D;
   color: rgb(40,40,40);
   font-size: 13px;
   font-family: 'Open Sans', sans-serif;
@@ -54,7 +54,6 @@ a:hover {
 }
 
 #signup {
-    background: rgb(70, 70, 70);
     background-size: cover;
     text-align: center;
     padding: 30px;
