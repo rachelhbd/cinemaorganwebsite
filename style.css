@@ -94,6 +94,12 @@ a:hover {
     padding-top: 5%;
 }
 
+#mc_embed_signup {
+    display: inline;
+    background: #252627;
+}
+
+
 #footer {
     font-size: 15px;
     padding: 20px;
