@@ -39,8 +39,8 @@ a:hover {
     background-size: cover;
     padding-top: 150px;
     padding-bottom: 150px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 10%;
+    padding-right: 10%;
     background-image:  url("waiting-to-sing-dark.jpg");
     text-align: center;
     color: white;
@@ -60,7 +60,6 @@ a:hover {
     padding: 30px;
     padding-top: 30px;
     padding-bottom: 40px;
-   
     font-family: 'Open sans', sans-serif;
 
 }
@@ -68,7 +67,10 @@ a:hover {
 .middle {
     background-size: cover;
     background-image:  url("m_e_r_cinemaorgan.jpg");
-    padding: 150px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    padding-left: 10%;
+    padding-right: 10%;
 
 }
     
@@ -88,10 +90,15 @@ a:hover {
 	height:100%;
 }
 
+.soundcloud-widget {
+    padding-top: 5%;
+}
+
 #footer {
     font-size: 15px;
     padding: 20px;
     text-align: center;
+
 }
 
 #footer a {
