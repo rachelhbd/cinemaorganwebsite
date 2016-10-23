@@ -28,69 +28,6 @@ h2 {
     background-color: rgba(0,0,0,.8);
 }
 
-a:hover {
-    text-decoration: none;
-    font-weight: bolder;
-    color: #3C3744
-}
-
-/* Custom design */
-#banner {
-    background-size: cover;
-    padding-top: 150px;
-    padding-bottom: 150px;
-    padding-left: 10%;
-    padding-right: 10%;
-    background-image:  url("waiting-to-sing-dark-sm.jpg");
-    text-align: center;
-    color: white;
-    text-shadow: 0.2px 0.2px 8px  rgb(80, 80, 80);
-}
-    
-
-#banner p  {
-    font-size: 20px;
-    font-family: 'Open Sans', sans-serif;
-    opacity: 0.9;
-}
-
-#signup {
-    background-size: cover;
-    text-align: center;
-    padding: 30px;
-    padding-top: 30px;
-    padding-bottom: 40px;
-    font-family: 'Open sans', sans-serif;
-/* Fonts and Colours */
-body{
-  background: #252627;
-  color: white;
-  font-size: 15px;
-  font-family: 'Open Sans', sans-serif;
-     text-align: center;
-    font-weight: lighter;
-    display: inline;
-}
-
-h1 {
-  font-family: 'Cormorant Garamond', serif;
-  color:  white;
-  font-size: 65px;
-}
-
-h2 {
-    font-size: 20px;
-     font-family: 'Open Sans', sans-serif;
-    font-weight: bolder;
-    text-shadow: 0.2px 0.2px 8px  rgb(80, 80, 80);
-    display: inline;
-    opacity: 0.9;
-}
-
-.highlighted {
-    background-color: rgba(0,0,0,.8);
-}
-
 
 a:hover {
     text-decoration: none;
