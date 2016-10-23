@@ -108,6 +108,10 @@ a:hover {
     
 }
 
+.response {
+    color: white;
+}
+
 #footer {
     font-size: 15px;
     padding: 20px;
