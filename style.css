@@ -99,6 +99,14 @@ a:hover {
     background: #252627;
 }
 
+.mc-field-group input {
+    color: black;
+}
+
+.mc-field-group label {
+    color: white;
+    
+}
 
 #footer {
     font-size: 15px;
