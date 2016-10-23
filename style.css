@@ -108,9 +108,11 @@ a:hover {
     
 }
 
-.response {
+#mce-success-response {
     color: white;
 }
+
+
 
 #footer {
     font-size: 15px;
