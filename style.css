@@ -121,6 +121,10 @@ a:hover {
     
 }
 
+.mc-embedded-subscribe-form {
+    max-width: 200px;
+    display: inline;
+}
 
 #footer {
     font-size: 15px;
