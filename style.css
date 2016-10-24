@@ -125,6 +125,8 @@ a:hover {
     
 }
 
+.mc-field-group { display: inline-block; }
+
 .mc-embedded-subscribe-form {
     max-width: 200px;
     display: inline;
