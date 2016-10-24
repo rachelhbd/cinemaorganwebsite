@@ -132,6 +132,11 @@ a:hover {
     display: inline;
 }
 
+.button {
+	margin:auto;
+	display:block;
+}
+
 #mailchimp input[type="submit"] {
 			width: 35%;
 			padding: 8px 0;
