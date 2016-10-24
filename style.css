@@ -133,8 +133,7 @@ a:hover {
 }
 
 .button {
-	margin:auto;
-	display:block;
+	text-align: center;
 }
 
 #mailchimp input[type="submit"] {
