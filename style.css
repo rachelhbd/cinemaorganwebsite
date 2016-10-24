@@ -91,6 +91,10 @@ a:hover {
 	overflow:hidden;
 }
 
+.card {
+	text-align: center;
+}
+
 .iframe {
    position:absolute;
 	top:0;
