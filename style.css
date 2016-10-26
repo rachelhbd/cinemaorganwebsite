@@ -101,11 +101,11 @@ a:hover {
 	left:0;
 	width:100%;
 	height:100%;
-	max-width: 500px;
 }
 
 .soundcloud-widget {
     padding-top: 5%;
+    max-width: 400px;
 }
    
 .youtube-widget {
