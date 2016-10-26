@@ -104,8 +104,9 @@ a:hover {
 }
 
 .soundcloud-widget {
-    padding-top: 5%;
-    max-width: 400px;
+    	padding-top: 5%;
+ 	padding-left: 5%;
+	padding-right: 5%;
 }
    
 .youtube-widget {
