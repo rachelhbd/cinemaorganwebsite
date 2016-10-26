@@ -37,8 +37,8 @@ a:hover {
 /* Custom design */
 #banner {
     background-size: cover;
-    padding-top: 30%;
-    padding-bottom: 30%;
+    padding-top: 20%;
+    padding-bottom: 20%;
     padding-left: 10%;
     padding-right: 10%;
     background-image:  url("waiting-to-sing-dark-sm.jpg");
@@ -67,8 +67,8 @@ a:hover {
 
 .middle {
     background-size: cover;
-    padding-top: 30%;
-    padding-bottom: 30%;
+    padding-top: 20%;
+    padding-bottom: 20%;
     padding-left: 10%;
     padding-right: 10%;
 
