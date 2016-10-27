@@ -88,6 +88,13 @@ a:hover {
     background-image:  url("stephenjosephshow2.jpg");
 }
 
+#text-para {
+    padding-top: 20%;
+    padding-bottom: 20%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
 .container {
     position:relative;
 	padding-bottom:56.25%;
