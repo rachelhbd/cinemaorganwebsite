@@ -79,7 +79,7 @@ a:hover {
 }
 
 .mc-field-group { 
-	display: inline-block; 
+	display: inline; 
 }
 
 #mc_embed_signup {
