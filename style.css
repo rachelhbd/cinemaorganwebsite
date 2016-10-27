@@ -84,8 +84,20 @@ a:hover {
     color: black;
 }
 
-.mc-field-group { display: inline-block; }
+.mc-field-group { 
+	display: inline-block; 
+}
   
+#mce-EMAIL {
+	display: inline-block;	
+}
+
+
+#mce-FNAME {
+	display: inline-block;
+}
+
+#mce-LNAME
 /* Soundcloud section */
 .soundcloud-widget {
     padding-top: 5%;
