@@ -88,8 +88,8 @@ form {
     display: inline;
 }
 
-input.button { 
-	text-align:center;
+input.button {
+	display: inline-block;
 }
 
 /* Soundcloud section */
