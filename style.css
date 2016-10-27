@@ -81,19 +81,7 @@ a:hover {
 .mc-field-group { 
 	display: inline-block; 
 }
-  
-#mce-EMAIL {
-	display: inline-block;	
-}
-
-
-#mce-FNAME {
-	display: inline-block;
-}
-
-#mce-LNAME {
-	display: inline-block;
-}
+ 
 
 #mc_embed_signup {
     background: #252627;
