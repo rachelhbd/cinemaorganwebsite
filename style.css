@@ -92,6 +92,10 @@ a:hover {
     display: inline;
 }
 
+input { 
+    max-width: 100px;
+}
+
 /* Soundcloud section */
 .soundcloud-widget {
     padding-top: 5%;
