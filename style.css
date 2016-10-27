@@ -88,12 +88,9 @@ a:hover {
     color: white;    
 }
 
- form {
-   width: 200px;
-	 height: auto;
-   margin: auto;
-   position: relative;
- }
+form {
+    display: inline;
+}
 
 .mc-field-group {
     display: inline;
