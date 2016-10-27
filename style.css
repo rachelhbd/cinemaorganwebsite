@@ -95,14 +95,6 @@ a:hover {
     padding-right: 10%;
 }
 
-.container {
-    position:relative;
-	padding-bottom:56.25%;
-	padding-top:30px;
-	height:0;
-	overflow:hidden;
-}
-
 .card {
 	text-align: center;
 }
