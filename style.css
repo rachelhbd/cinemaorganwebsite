@@ -27,6 +27,8 @@ h2 {
     text-shadow: 0.2px 0.2px 8px  rgb(80, 80, 80);
     display: inline;
     opacity: 0.9;
+    padding-left: 20%;
+    padding-right: 20%;
 }
 
 .highlighted {
