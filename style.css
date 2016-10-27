@@ -23,7 +23,7 @@ h2 {
     text-shadow: 0.2px 0.2px 8px  rgb(80, 80, 80);
     display: inline;
     opacity: 0.9;
-    line-height: 2;
+   
 }
 
 .highlighted {
@@ -37,6 +37,8 @@ a:hover {
 }
 
 /* Custom design */
+
+/* Header */
 #banner {
     background-size: cover;
     padding-top: 20%;
@@ -47,25 +49,11 @@ a:hover {
     color: white;
     text-shadow: 0.2px 0.2px 8px  rgb(80, 80, 80);
 }
-    
-
-#banner p  {
-    font-size: 20px;
-    font-family: 'Open Sans', sans-serif;
-    opacity: 0.9;
-}
-
-#signup {
-    background-size: cover;
-    
-    padding: 30px;
-    padding-top: 30px;
-    padding-bottom: 40px;
-    font-family: 'Open sans', sans-serif;
-
-}
-
-.middle {
+ 
+/* Second image section with quotes */
+#section-2 {
+    background-image:  url("stephenjosephshow2.jpg");
+    line-height: 2.5;
     background-size: cover;
     padding-top: 20%;
     padding-bottom: 20%;
@@ -74,28 +62,17 @@ a:hover {
 
 }
 
-#section-2 {
-    background-image:  url("stephenjosephshow2.jpg");
+/* Main body text and signup form */
+
+#main {
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
-
-.iframe {
-   position:absolute;
-	top:0;
-	left:0;
-	width:100%;
-	height:100%;
+#signup {
+    padding: 50px;
 }
 
-.soundcloud-widget {
-    	padding-top: 5%;
- 	padding-left: 5%;
-	padding-right: 5%;
-}
-   
-.youtube-widget {
-    padding-top: 5%;
-}
 
 #mc_embed_signup {
     display: inline;
@@ -107,27 +84,32 @@ a:hover {
 }
 
 .mc-field-group label {
-    color: white;
-    
+    color: white;    
 }
 
-.mc-field-group { display: inline-block; }
-
-.mc-embedded-subscribe-form {
-    max-width: 200px;
-    display: inline;
+/* Soundcloud section */
+.soundcloud-widget {
+    padding-top: 5%;
+ 	padding-left: 5%;
+	padding-right: 5%;
 }
 
-
-#mailchimp input[type="submit"] {
-			width: 35%;
-			padding: 8px 0;
+.iframe {
+    border: 0px;
+    width: 100%;
 }
 
+#chaplin-quote {
+  padding-top: 30px;
+  padding-left: 20%;
+  padding-right: 20%;
+  font-size: 16px;
+    font-weight: 400;
+}
+
+/* Footer */
 #footer {
-    font-size: 15px;
     padding: 20px;
-
 }
 
 #footer a {
