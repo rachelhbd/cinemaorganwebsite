@@ -83,6 +83,9 @@ a:hover {
     background: #252627;
 }
 
+.mc-field-group { display: inline-block; }
+
+
 /* Soundcloud section */
 .soundcloud-widget {
     padding-top: 5%;
