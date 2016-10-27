@@ -88,7 +88,7 @@ form {
     display: inline;
 }
 
-input[type="button"]{ 
+input.button { 
 	text-align:center;
 }
 
