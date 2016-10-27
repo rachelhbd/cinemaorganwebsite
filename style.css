@@ -82,8 +82,8 @@ a:hover {
 
 .mc-field-group input {
     color: black;
-   width: 375px;
-   height: 25px;
+   width: 100px;
+   height: 30px;
 }
 
 .mc-field-group label {
