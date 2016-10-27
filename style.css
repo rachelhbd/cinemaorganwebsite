@@ -92,6 +92,8 @@ form {
     display: inline;
 }
 
+
+
 /* Soundcloud section */
 .soundcloud-widget {
     padding-top: 5%;
@@ -124,4 +126,9 @@ form {
 
 #footer a:hover {
     color: grey;   
+}
+
+#lineup {
+  padding-left: 20%;
+  padding-right: 20%;
 }
