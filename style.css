@@ -4,29 +4,26 @@ body {
   color: white;
   font-size: 15px;
   font-family: 'Open Sans', sans-serif;
-     text-align: center;
-    font-weight: lighter;
-    display: inline;
+  text-align: center;
+  font-weight: lighter;
+
 }
 
 h1 {
   font-family: 'Lato', sans-serif;
-  color:  white;
   font-size: 65px;
   letter-spacing: 5px;
-  font-weight: bolder;
-   padding-left: 10%;
-   padding-right: 10%;
+    padding-left: 10%;
+  padding-right: 10%;
 }
 
 h2 {
     font-size: 20px;
-     font-family: 'Open Sans', sans-serif;
-    font-weight: bolder;
-	font
+    font-family: 'Open Sans', sans-serif;
     text-shadow: 0.2px 0.2px 8px  rgb(80, 80, 80);
     display: inline;
     opacity: 0.9;
+    line-height: 2;
 }
 
 .highlighted {
@@ -47,7 +44,6 @@ a:hover {
     padding-left: 10%;
     padding-right: 10%;
     background-image:  url("waiting-to-sing.jpg");
-    text-align: center;
     color: white;
     text-shadow: 0.2px 0.2px 8px  rgb(80, 80, 80);
 }
@@ -61,7 +57,7 @@ a:hover {
 
 #signup {
     background-size: cover;
-    text-align: center;
+    
     padding: 30px;
     padding-top: 30px;
     padding-bottom: 40px;
@@ -82,10 +78,6 @@ a:hover {
     background-image:  url("stephenjosephshow2.jpg");
 }
 
-
-.card {
-	text-align: center;
-}
 
 .iframe {
    position:absolute;
@@ -126,9 +118,6 @@ a:hover {
     display: inline;
 }
 
-.button {
-	text-align: center;
-}
 
 #mailchimp input[type="submit"] {
 			width: 35%;
@@ -138,7 +127,6 @@ a:hover {
 #footer {
     font-size: 15px;
     padding: 20px;
-    text-align: center;
 
 }
 
