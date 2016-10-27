@@ -90,6 +90,7 @@ a:hover {
 
 form {
     display: inline;
+max-width: 100px;
 }
 
 .mc-field-group {
