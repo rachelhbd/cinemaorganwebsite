@@ -84,15 +84,18 @@ a:hover {
 
 #mce-EMAIL {
 	display: inline-block;	
+	width: 70%;
 }
 
 
 #mce-FNAME {
 	display: inline-block;
+	width: 70%;
 }
 
 #mce-LNAME {
 	display: inline-block;
+	width: 70%;
 }
 
 #mc_embed_signup {
