@@ -83,6 +83,8 @@ a:hover {
 .mc-field-group input {
     color: black;
 }
+
+.mc-field-group { display: inline-block; }
   
 /* Soundcloud section */
 .soundcloud-widget {
