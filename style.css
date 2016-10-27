@@ -88,15 +88,6 @@ a:hover {
     color: white;    
 }
 
-form {
-    display: inline;
-max-width: 100px;
-}
-
-.mc-field-group {
-    display: inline;
-}
-
 /* Soundcloud section */
 .soundcloud-widget {
     padding-top: 5%;
