@@ -78,13 +78,10 @@ a:hover {
     color: black;
 }
 
-.mc-field-group { 
-	display: inline; 
-}
 
 #mc_embed_signup {
     background: #252627;
-    display: inline-block;
+    display: inline;
 }
 
 /* Soundcloud section */
