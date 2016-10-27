@@ -88,6 +88,10 @@ form {
     display: inline;
 }
 
+input.button { 
+	text-align:center;
+}
+
 /* Soundcloud section */
 .soundcloud-widget {
     padding-top: 5%;
