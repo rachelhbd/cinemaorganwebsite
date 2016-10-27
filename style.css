@@ -1,27 +1,30 @@
 /* Fonts and Colours */
-body{
+body {
   background: #252627;
   color: white;
   font-size: 15px;
   font-family: 'Open Sans', sans-serif;
-     text-align: center;
-    font-weight: lighter;
-    display: inline;
+  text-align: center;
+  font-weight: lighter;
+	display: inline;
+
 }
 
 h1 {
-  font-family: 'Cormorant Garamond', serif;
-  color:  white;
+  font-family: 'Lato', sans-serif;
   font-size: 65px;
+  letter-spacing: 5px;
+    padding-left: 10%;
+  padding-right: 10%;
 }
 
 h2 {
     font-size: 20px;
-     font-family: 'Open Sans', sans-serif;
-    font-weight: bolder;
+    font-family: 'Open Sans', sans-serif;
     text-shadow: 0.2px 0.2px 8px  rgb(80, 80, 80);
     display: inline;
     opacity: 0.9;
+   
 }
 
 .highlighted {
@@ -35,85 +38,40 @@ a:hover {
 }
 
 /* Custom design */
+
+/* Header */
 #banner {
     background-size: cover;
-    padding-top: 150px;
-    padding-bottom: 150px;
+    padding-top: 20%;
+    padding-bottom: 20%;
     padding-left: 10%;
     padding-right: 10%;
-    background-image:  url("waiting-to-sing-dark-sm.jpg");
-    text-align: center;
+    background-image:  url("waiting-to-sing.jpg");
     color: white;
     text-shadow: 0.2px 0.2px 8px  rgb(80, 80, 80);
 }
-    
-
-#banner p  {
-    font-size: 20px;
-    font-family: 'Open Sans', sans-serif;
-    opacity: 0.9;
-}
-
-#signup {
+ 
+/* Second image section with quotes */
+#section-2 {
+    background-image:  url("stephenjosephshow2.jpg");
+    line-height: 2.5;
     background-size: cover;
-    text-align: center;
-    padding: 30px;
-    padding-top: 30px;
-    padding-bottom: 40px;
-    font-family: 'Open sans', sans-serif;
-
-}
-
-
-.middle {
-    background-size: cover;
-    padding-top: 150px;
-    padding-bottom: 150px;
+    padding-top: 20%;
+    padding-bottom: 20%;
     padding-left: 10%;
     padding-right: 10%;
 
 }
 
-#section-2 {
-    background-image:  url("rhythm-section.jpg");
-}
-    
-#section-3 {
-    background-image: url(m_e_r_cinemaorgan.jpg);
-}
+/* Main body text and signup form */
 
-
-.container {
-    position:relative;
-	padding-bottom:56.25%;
-	padding-top:30px;
-	height:0;
-	overflow:hidden;
+#main {
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
-.card {
-	text-align: center;
-}
-
-.iframe {
-   position:absolute;
-	top:0;
-	left:0;
-	width:100%;
-	height:100%;
-}
-
-html,body        {height:100%;}
-.wrapper         {width:80%; max-width: 600px; height:100%; margin:0 auto; background:#CCC}
-.h_iframe        {position:relative; padding-top: 56%;}
-.h_iframe iframe {position:absolute;top:0;left:0;width:100%; height:100%;}
-
-.soundcloud-widget {
-    padding-top: 5%;
-}
-   
-.youtube-widget {
-    padding-top: 5%;
+#signup {
+    padding: 50px;
 }
 
 #mc_embed_signup {
@@ -125,32 +83,38 @@ html,body        {height:100%;}
     color: black;
 }
 
-.mc-field-group label {
-    color: white;
-    
+.mc-field-group {
+    display: inline;
+    padding: 2px;
 }
 
-.mc-field-group { display: inline-block; }
-
-.mc-embedded-subscribe-form {
-    max-width: 200px;
+form {
     display: inline;
 }
 
-.button {
-	text-align: center;
+/* Soundcloud section */
+.soundcloud-widget {
+    padding-top: 5%;
+ 	padding-left: 5%;
+	padding-right: 5%;
 }
 
-#mailchimp input[type="submit"] {
-			width: 35%;
-			padding: 8px 0;
+.iframe {
+    border: 0px;
+    width: 100%;
 }
 
+#chaplin-quote {
+  padding-top: 30px;
+  padding-left: 20%;
+  padding-right: 20%;
+  font-size: 16px;
+    font-weight: 400;
+}
+
+/* Footer */
 #footer {
-    font-size: 15px;
     padding: 20px;
-    text-align: center;
-
 }
 
 #footer a {
