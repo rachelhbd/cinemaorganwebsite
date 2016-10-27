@@ -74,17 +74,22 @@ a:hover {
     padding: 50px;
 }
 
+#mc_embed_signup {
+    display: inline;
+    background: #252627;
+}
+
 .mc-field-group input {
     color: black;
 }
 
-
-#mc_embed_signup {
-    background: #252627;
+.mc-field-group {
+    display: inline;
 }
 
-.mc-field-group { display: inline-block; }
-
+form {
+    display: inline;
+}
 
 /* Soundcloud section */
 .soundcloud-widget {
