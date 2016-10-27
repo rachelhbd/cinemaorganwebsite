@@ -85,6 +85,7 @@ a:hover {
 
 .mc-field-group {
     display: inline;
+    padding: 2px;
 }
 
 form {
