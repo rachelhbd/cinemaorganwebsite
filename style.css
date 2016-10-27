@@ -66,6 +66,7 @@ a:hover {
 /* Main body text and signup form */
 
 #main {
+    padding-top: 50px;
     padding-left: 10%;
     padding-right: 10%;
 }
