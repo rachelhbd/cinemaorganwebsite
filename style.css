@@ -27,13 +27,6 @@ h2 {
     opacity: 0.9;
 }
 
-h2 #chaplin-quote {
-	padding-top: 20%;
-    padding-bottom: 20%;
-    padding-left: 10%;
-    padding-right: 10%;
-}
-
 .highlighted {
     background-color: rgba(0,0,0,.8);
 }
@@ -145,6 +138,13 @@ a:hover {
 #mailchimp input[type="submit"] {
 			width: 35%;
 			padding: 8px 0;
+}
+
+#chaplin-quote {
+	padding-top: 20%;
+    padding-bottom: 20%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 #footer {
