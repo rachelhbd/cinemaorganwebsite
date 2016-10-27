@@ -27,7 +27,7 @@ h2 {
     opacity: 0.9;
 }
 
-#chaplin-quote {
+h2 #chaplin-quote {
 	padding-top: 20%;
     padding-bottom: 20%;
     padding-left: 10%;
