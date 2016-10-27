@@ -74,12 +74,6 @@ a:hover {
     padding: 50px;
 }
 
-
-#mc_embed_signup {
-    background: #252627;
-    display: inline-block;
-}
-
 .mc-field-group input {
     color: black;
 }
@@ -99,6 +93,11 @@ a:hover {
 
 #mce-LNAME {
 	display: inline-block;
+}
+
+#mc_embed_signup {
+    background: #252627;
+    display: inline-block;
 }
 
 /* Soundcloud section */
