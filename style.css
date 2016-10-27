@@ -92,6 +92,11 @@ form {
     display: inline;
 }
 
+#lineup {
+	padding-left: 20%;
+  padding-right: 20%;
+}
+
 /* Soundcloud section */
 .soundcloud-widget {
     padding-top: 5%;
