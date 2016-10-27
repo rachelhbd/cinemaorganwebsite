@@ -89,9 +89,9 @@ form {
 }
 
 .button {
-margin: 0 auto;
+	text-align:center;
+margin:auto;
 }
-
 
 /* Soundcloud section */
 .soundcloud-widget {
