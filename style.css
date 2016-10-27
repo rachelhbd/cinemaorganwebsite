@@ -82,13 +82,18 @@ a:hover {
 
 .mc-field-group input {
     color: black;
-   width: 100px;
-   height: 30px;
 }
 
 .mc-field-group label {
     color: white;    
 }
+
+ form {
+   width: 200px;
+	 height: auto;
+   margin: auto;
+   position: relative;
+ }
 
 .mc-field-group {
     display: inline;
